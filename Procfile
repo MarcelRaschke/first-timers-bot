@@ -1,0 +1,1 @@
+web: ./node_modules/.bin/probot run ./server.js
